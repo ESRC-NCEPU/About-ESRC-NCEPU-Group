@@ -4,7 +4,7 @@
 
 Welcome to the GitHub page of **ESRC-NCEPU Group**.
 
-We are a research group from the **School of Electrical and Electronic Engineering, North China Electric Power University (NCEPU)**. Our research focuses on the **flexible regulation and control of emerging loads**, with particular interest in **data centers**, **electric vehicles**, and other electricity-intensive cyber-physical systems.
+We are a research group led by Prof. Zhaohao Ding from the **School of Electrical and Electronic Engineering, North China Electric Power University (NCEPU)**. Our research focuses on the **flexible regulation and control of emerging loads**, with particular interest in **data centers**, **electric vehicles**, and other electricity-intensive cyber-physical systems.
 
 Driven by the transition toward low-carbon and intelligent energy systems, we aim to explore the modeling, optimization, and coordinated operation of flexible loads at the intersection of **power systems**, **energy management**, and **intelligent decision-making**.
 
