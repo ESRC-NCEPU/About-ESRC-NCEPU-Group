@@ -75,6 +75,4 @@ zhaohao [dot] ding [at] ncepu [dot] edu [dot] cn
 School of Electrical and Electronic Engineering  
 North China Electric Power University (NCEPU)
 
-**ESRC-NCEPU Group**  
 华北电力大学电气与电子工程学院  
-North China Electric Power University (NCEPU)
