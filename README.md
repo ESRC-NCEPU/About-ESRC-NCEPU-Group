@@ -32,6 +32,19 @@ This repository serves as the home page of our group and will be used to share:
 - Datasets and benchmarks
 - Technical reports and related resources
 
+## Open-Source Resources
+
+Some papers and open-source research codes are available on GitHub:
+
+- [Yanchang Liang's GitHub](https://github.com/yanchang-liang)
+
+## Contact Information
+
+For academic collaboration or other inquiries, please contact:
+
+**Zhaohao Ding**  
+zhaohao [dot] ding [at] ncepu [dot] edu [dot] cn
+
 ## Affiliation
 
 **ESRC-NCEPU Group**  
