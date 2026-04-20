@@ -10,9 +10,9 @@ Driven by the transition toward low-carbon and intelligent energy systems, we ai
 
 欢迎访问 **ESRC-NCEPU Group** 的 GitHub 主页。
 
-我们是由丁肇豪教授带领、依托于**华北电力大学电气与电子工程学院**的科研团队。课题组主要围绕**新型负荷的灵活调控**开展研究，重点关注**数据中心**、**电动汽车**以及其他高耗能信息物理系统。
+我们是由丁肇豪教授带领、依托于**华北电力大学电气与电子工程学院**的科研团队。课题组主要围绕**新型负荷的灵活调控**开展研究，重点关注**数据中心**、**电动汽车**等新型负荷。
 
-面向低碳化、智能化能源系统的发展趋势，我们致力于研究灵活负荷在**电力系统**、**能源管理**与**智能决策**交叉领域中的建模、优化与协同运行问题。
+我们致力于研究新型灵活性负荷在**电力系统**、**能源管理**与**智能决策**交叉领域中的建模、优化与协同运行问题。
 
 ## Research Areas | 研究方向
 
@@ -21,18 +21,14 @@ Our current research interests include, but are not limited to:
 - Flexible operation and scheduling of data centers
 - Coordinated optimization of computing and power systems
 - Energy management and demand response of electric vehicles
-- Data-driven modeling and control of emerging flexible loads
 - Artificial intelligence and reinforcement learning for energy systems
-- Low-carbon and resilient operation of integrated energy systems
 
 我们当前的研究方向包括但不限于：
 
 - 数据中心灵活运行与调度
 - 算力系统与电力系统协同优化
 - 电动汽车能源管理与需求响应
-- 新型灵活负荷的数据驱动建模与控制
 - 面向能源系统的人工智能与强化学习方法
-- 综合能源系统的低碳与韧性运行
 
 ## Our Vision | 愿景
 
