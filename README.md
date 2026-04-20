@@ -34,9 +34,9 @@ This repository serves as the home page of our group and will be used to share:
 
 ## Open-Source Resources
 
-Some papers and open-source research codes are available on GitHub:
+We share open-source research codes associated with our published papers and related academic projects. The repositories below provide implementations corresponding to our research contributions.
 
-- [Yanchang Liang's GitHub](https://github.com/yanchang-liang)
+- [Agent-Based Modeling in Electricity Market Using Deep Deterministic Policy Gradient Algorithm](https://github.com/ESRC-NCEPU/agent-based-modeling-in-electricity-market-using-DDPG-algorithm)
 
 ## Contact Information
 
